@@ -1,0 +1,18 @@
+{
+	"getMoviesList": {
+		"url": "http://static.videogular.com/assets/videos/videogular.mp4"
+	},
+	"register":{
+		"url":"/api/insert-user"
+	},
+	"card":{
+		"url":"/api/insert-user-carddetails"
+	},
+	"checkEmailExist":{
+		"url":"/api/email-check"
+	},
+	"plan":{
+		"url":"/api/insert-plan"
+	}
+    
+}

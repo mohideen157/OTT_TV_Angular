@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="57px" viewBox="0 0 60 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>791CE052-09BA-49DC-90DE-169CA7452C38</title>
+    <defs>
+        <filter x="-84.3%" y="-87.0%" width="268.6%" height="273.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="01-web-landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="landing-page" transform="translate(-33.000000, -324.000000)" fill-rule="nonzero" stroke="#FFFFFF">
+            <g id="Group-5" filter="url(#filter-1)" transform="translate(37.500000, 340.900000)">
+                <path d="M36.4948125,8.27343782 L27.7894375,0.811397087 C26.5268125,-0.270465696 24.4731875,-0.270465696 23.2105625,0.811397087 L14.5051875,8.27343782 C14.23175,8.50781018 14.23175,8.88768089 14.5051875,9.12205324 C14.7781875,9.35642559 15.2218125,9.35642559 15.4948125,9.12205324 L16.05,8.64618361 L16.05,16.2735975 C16.05,17.2262742 16.9510313,17.998578 18.0625,17.998578 L21.5625,17.998578 C21.8041313,17.998578 22,17.8306924 22,17.6235822 L22,12.0736449 C22,11.0381316 22.9793875,10.1986661 24.1875,10.1986661 L26.8125,10.1986661 C28.0206125,10.1986661 29,11.0381316 29,12.0736449 L29,17.6235822 C29,17.8306924 29.1958688,17.998578 29.4375,17.998578 L32.9375,17.998578 C34.0489688,17.998578 34.95,17.2262742 34.95,16.2735975 L34.95,8.64618361 L35.5051875,9.12205324 C35.6416875,9.23905192 35.8210625,9.29792625 36,9.29792625 C36.1789375,9.29792625 36.3583125,9.23905192 36.4948125,9.12205324 C36.76825,8.88768089 36.76825,8.50781018 36.4948125,8.27343782 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

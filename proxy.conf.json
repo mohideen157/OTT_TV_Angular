@@ -1,0 +1,16 @@
+{
+  "/api/*": {
+    "target": "http://localhost:8000/",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true,
+    "pathRewrite": {"^/api" : ""}
+  },
+ "/video/*": {
+    "target": "http://3.21.184.239:8081/",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true,
+    "pathRewrite": {"^/video" : ""}
+  }
+}
